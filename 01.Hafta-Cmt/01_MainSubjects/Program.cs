@@ -42,7 +42,7 @@ namespace _01_MainSubjects
 
             //customerName = "Yusuf";
             //customerSurname = "Doğan";
-            //customerPhone = "+90 505 120 53 77";
+            //customerPhone = "+90 505 1234567";
             //customerEmail = "yusufdogan.dev@gmail.com";
             //district = "Menemen";
             //city = "İzmir";
@@ -59,10 +59,10 @@ namespace _01_MainSubjects
 
             //Console.WriteLine();
 
-            //customerName = "Ömer Burak";
+            //customerName = "Ömer";
             //customerSurname = "DOĞAN";
-            //customerPhone = "+90 506 997 35 35";
-            //customerEmail = "omerburakdogan@gmail.com";
+            //customerPhone = "+90 505 1234567";
+            //customerEmail = "omerdogan@gmail.com";
             //district = "Bayrampaşa";
             //city = "İstanbul";
 
