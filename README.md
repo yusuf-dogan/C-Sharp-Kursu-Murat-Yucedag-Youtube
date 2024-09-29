@@ -1,1 +1,2 @@
-![Youtube-Kurs-resim](https://github.com/user-attachments/assets/bf8beeee-3a9a-4e1f-8ec6-c0437141b55a)
+![Youtube-Kurs-resim copy](https://github.com/user-attachments/assets/934dc282-30e4-4ced-a0fe-f89e4453fafc)
+
