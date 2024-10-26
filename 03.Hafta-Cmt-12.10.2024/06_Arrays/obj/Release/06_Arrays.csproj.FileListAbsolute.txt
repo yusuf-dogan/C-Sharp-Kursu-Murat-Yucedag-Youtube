@@ -1,0 +1,2 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Murat Hoca C# Kursu - Youtube\03.Hafta-Cmt-12.10.2024\06_Arrays\obj\Release\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Murat Hoca C# Kursu - Youtube\03.Hafta-Cmt-12.10.2024\06_Arrays\obj\Release\06_Arrays.csproj.CoreCompileInputs.cache
